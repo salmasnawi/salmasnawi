@@ -3,7 +3,7 @@
 
 <p align="center">
 💡 I love creating **dynamic, responsive, and user-friendly** web applications. <br>
-💻 Currently working with **React, Next.js, JavaScript, PHP, and MySQL**.  
+💻 Currently working with **React, Next.js, JavaScript, PHP, and MySQL**. <br> 
 🚀 Always learning & improving my skills in **Flutter , Arduino, and AI Technologies**.  
 </p>  
 

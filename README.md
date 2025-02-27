@@ -3,8 +3,8 @@
 
 <p align="center">
 💡 I love creating **dynamic, responsive, and user-friendly** web applications.  
-💻 Currently working with **React, Vue.js, JavaScript, PHP, and MySQL**.  
-🚀 Always learning & improving my skills in **Next.js, Dart, Arduino, and AI Technologies**.  
+💻 Currently working with **React, Next.js, JavaScript, PHP, and MySQL**.  
+🚀 Always learning & improving my skills in **Flutter , Arduino, and AI Technologies**.  
 </p>  
 
 ---
@@ -12,7 +12,6 @@
 ### **🛠️ Tech Stack & Skills**  
 #### **Frontend Development:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -33,7 +32,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)  
 
 #### **Other Technologies:**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
@@ -50,9 +48,7 @@
 ---
 
 ### **📊 GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmasnawi&show_icons=true&theme=tokyonight" alt="Salma's GitHub stats" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=salmasnawi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -65,8 +61,8 @@
 ---
 
 ### **📫 Contact Me**  
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📧 **Email:** salmaatef272@gmail.com  
+💼 **LinkedIn:**www.linkedin.com/in/salma-atef-04b605316
 
 🚀 **I’m open to collaborations, freelance projects, and learning opportunities!** Let's build something great together.  
 

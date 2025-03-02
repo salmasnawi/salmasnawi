@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Salma Atef Mohamed Sanwi</h1>  
-<h3 align="center">A Passionate Frontend & Full-Stack Developer 🚀</h3>  
+<h1 align="center">Hi , I'm Salma Atef Mohamed Sanwi</h1>  
+<h3 align="center">A Passionate Frontend & Full-Stack Developer </h3>  
 
 <p align="center">
-💡 I love creating **dynamic, responsive, and user-friendly** web applications. <br>
-💻 Currently working with **React, Next.js, JavaScript, PHP, and MySQL**. <br> 
-🚀 Always learning & improving my skills in **Flutter , Arduino, and AI Technologies**.  
+ I love creating dynamic, responsive, and user-friendly web applications. <br>
+ Currently working with React, Next.js, JavaScript, PHP, and MySQL. <br> 
+ Always learning & improving my skills in Flutter , Arduino, and AI Technologies.  
 </p>  
 
 ---
